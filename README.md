@@ -4,7 +4,7 @@
 
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [QRcode Attendance Monitoring System 7/11](https://github.com/joshmadakor1/EncrypterPOC)
+  - [QRcode Attendance Monitoring System 7/11](https://github.com/johnricB/AttendanceMonitoringSystem/blob/main/README.md)
     
  
 <h2> 📃 Certifications:</h2>
