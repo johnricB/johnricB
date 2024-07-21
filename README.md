@@ -21,8 +21,5 @@
 [linkedin]:https://www.linkedin.com/in/johnric-batas-a66714253/
 
 
------------------------------------
-### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{johnricB}/count.svg)
 
 
