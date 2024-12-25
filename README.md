@@ -6,7 +6,7 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [QRcode Attendance Monitoring System 7/11](https://github.com/johnricB/AttendanceMonitoringSystem/blob/main/README.md)
 - <b> (Mobile Applications)</b>
-  - [QRcode Attendance Monitoring System 7/11](https://github.com/johnricB/AttendanceMonitoringSystem/blob/main/README.md)  
+  - [Mobile Campus Social Media](https://github.com/johnricB/MobileApp/blob/main/README.md)  
 
     
 <h2>👨‍💻 Cybersecurity Projects:</h2>
