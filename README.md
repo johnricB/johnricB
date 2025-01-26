@@ -1,4 +1,4 @@
-<h1>Hi, I'm Johnric. <br/><a href="https://www.linkedin.com/in/johnric-batas-a66714253/">Information Technology Student | Programmer | Aspiring Cybersecurity Professional | Pursuing Advanced Studies in Machine Learning & A</h1>
+<h1>Hi, I'm Johnric. <br/><a href="https://www.linkedin.com/in/johnric-batas-a66714253/">Information Technology Student | Programmer | Aspiring Cybersecurity Professional | Pursuing Advanced Studies in Machine Learning & AI </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
