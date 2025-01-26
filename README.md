@@ -15,7 +15,7 @@
  -  <b>(PowerShell)</b>
     - [FIM (File Integrity Monitor)](https://github.com/johnricB/FIM/blob/main/README.md)  
 
-<h2>👨‍💻 ML|AI Projects:</h2>
+<h2>👨‍💻 ML | AI Projects:</h2>
 
 
  
