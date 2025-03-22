@@ -20,7 +20,7 @@
 
  
 <h2> 📃 Certifications:</h2>
-     - Google Cybersecurity Professional Certificate
+         <b>Google Cybersecurity</b>
 
 
 <h2> 🤳 Connect with me:</h2>
