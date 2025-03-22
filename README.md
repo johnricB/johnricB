@@ -20,7 +20,7 @@
 
  
 <h2> 📃 Certifications:</h2>
-     - [Google Cybersecurity Professional Certificate](https://coursera.org/share/8581b7eceeb63f6cefc2e5284d6e26a4)
+     - Google Cybersecurity Professional Certificate
 
 
 <h2> 🤳 Connect with me:</h2>
